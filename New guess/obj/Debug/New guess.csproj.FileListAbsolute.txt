@@ -1,0 +1,14 @@
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\bin\Debug\New guess.exe.config
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\bin\Debug\New guess.exe
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\bin\Debug\New guess.pdb
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\New guess.csprojResolveAssemblyReference.cache
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\MainWindow.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\App.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\New guess_MarkupCompile.cache
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\New guess_MarkupCompile.lref
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\MainWindow.baml
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\New guess.g.resources
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\New_guess.Properties.Resources.resources
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\New guess.csproj.GenerateResource.Cache
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\New guess.exe
+c:\users\gods1\documents\visual studio 2015\Projects\New guess\New guess\obj\Debug\New guess.pdb
